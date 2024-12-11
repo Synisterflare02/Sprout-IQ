@@ -17,6 +17,9 @@ Sprout-IQ automates traditional soil testing processes, which are often inaccura
 
 ![Sprout-IQ Bot](https://github.com/Synisterflare02/Sprout-IQ/blob/main/Bot.jpg)
 
+## **Remote Control**
+![RC Control](https://github.com/Synisterflare02/Sprout-IQ/blob/main/Bot_control.jpg)
+
 ## **Software Requirements**
 
 To run the **Sprout-IQ** bot, you'll need to install the following software:
